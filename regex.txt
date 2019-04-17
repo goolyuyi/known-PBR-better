@@ -1,0 +1,6 @@
+(\\left\\langle.+?),(.+?\\right\\rangle)
+$1\\cdot$2
+
+\\([Oo]mega)_\{[a-zA-Z]\}
+
+$\left(\mathrm{pbrspec}\right)$
